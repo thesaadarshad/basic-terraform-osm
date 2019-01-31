@@ -8,8 +8,12 @@
   git clone https://github.com/thesaadarshad/basic-terraform-osm.git .
   
   terraform init
+  
   terraform plan
+  
   terraform apply
   
+  
   #To Destroy Instance
+  
   terraform destroy
